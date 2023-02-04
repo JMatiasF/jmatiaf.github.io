@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+body {
+    
+    margin: 0;
+    
+}
+
+.container_16 {
+	max-width: 860px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+
+header{
+    background-color:#33a4c9;
+    border-bottom: 1px solid #848484;
+    padding: 19px 0;
+    overflow: hidden;
+}
+
+h1 {
+  color: #fff;
+  font: 400 50px oswald, sans-serif;
+  text-shadow: 1px 1px 0 rgba(0,0,0,.3);
+  float: center;
+  text-align: center;
+}
+
+h2 {
+  
+  font-style: italic;
+  font: 400 40px oswald,sans-serif;
+  text-shadow: 1px 1px 0 rgba(0,0,0,.3);
+}
+
+h3 {
+  
+  font-style: italic;
+  font: 400 30px oswald,sans-serif;
+  text-shadow: 1px 1px 0 rgba(0,0,0,.3);
+}
+
+p {
+  font: 400 18px oswald, sans-serif;
+}
+
+
+header ul {
+  color: #fff;
+  font: 400 20px oswald,sans-serif;
+  text-shadow: 1px 1px 0 rgba(0,0,0,.3);
+  text-align: center;
+  float: center;
+  list-style: none;
+    
+}
+
+header figure {
+  float:left;
+  }
+
+header figure img {
+  border-radius: 90px;
+  border: solid #fff;
+  height: 175px;
+  width: 175px;
+  position: relative;
+}
+section {
+  background-color:#d6f0f8;
+  padding: 19px 0;
+}
+
